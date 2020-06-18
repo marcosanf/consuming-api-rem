@@ -18,7 +18,7 @@
 - [x] list characters in cards
 - [ ] create a modal to see more information about characteres
 - [x] filter character by name
-- [ ] other filtes, like localization or episode
+- [ ] other filters, like location or episode
 - [ ] create a footer component with vue and bulma
 
 # Project Setup
