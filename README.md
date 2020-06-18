@@ -7,6 +7,11 @@
 > Status: Under development :warning:
 
 ## Languages and libs used :books:
+- [Codesandbox](https://codesandbox.io/)
 - [Vue CLI](https://cli.vuejs.org/)
 - [Bulma](https://bulma.io/)
 - [Axios](https://www.npmjs.com/package/axios)
+
+## Features
+# [List character in cards:checked]
+
