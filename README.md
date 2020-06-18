@@ -13,5 +13,15 @@
 - [Axios](https://www.npmjs.com/package/axios)
 
 ## Features
-[List character in cards:checked]
+- [x] created a header component
+- [x] create a card template with vue component
+- [x] list characters in cards
+- [ ] create a modal to see more information about characteres
+- [x] filter character by name
+- [ ] other filtes, like localization or episode
+- [ ] create a footer component with vue and bulma
+
+# Project Setup
+
+
 
