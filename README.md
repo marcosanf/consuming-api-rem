@@ -13,5 +13,5 @@
 - [Axios](https://www.npmjs.com/package/axios)
 
 ## Features
-# [List character in cards:checked]
+[List character in cards:checked]
 
